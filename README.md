@@ -1,4 +1,4 @@
-# 西南科技大学抢课脚本
+# SWUST抢课脚本
 ## 作者
 SiberianHusky 万事如意CC
 ## 效果
